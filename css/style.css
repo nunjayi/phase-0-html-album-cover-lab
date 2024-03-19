@@ -110,3 +110,14 @@ img {
   margin-left: 163px;
   padding-top: 25px;
 }
+
+#happy{
+  font-size: 4em;
+}
+#footer{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-evenly;
+  gap: 5px;
+  align-items: center;
+}
